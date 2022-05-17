@@ -14,7 +14,6 @@ INDEX VERSION 1.131+C:\Users\rponceso\Documents\Tartaro\microservicios-tutorial\
 2857199800.index
 1607639314.index
 240870603.index
-2227838403.index
 3781852478.index
 963700148.index
 3260873126.index
@@ -35,12 +34,10 @@ INDEX VERSION 1.131+C:\Users\rponceso\Documents\Tartaro\microservicios-tutorial\
 118342566.index
 3867409471.index
 1248407149.index
-645209528.index
 2963538765.index
 3318825089.index
 3749565701.index
 2854193521.index
-584971622.index
 3867579341.index
 3184717171.index
 4237918392.index
@@ -60,7 +57,6 @@ INDEX VERSION 1.131+C:\Users\rponceso\Documents\Tartaro\microservicios-tutorial\
 2330857962.index
 126463999.index
 3004383119.index
-2339348140.index
 3793391456.index
 3398816544.index
 2636854405.index
