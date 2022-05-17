@@ -5,8 +5,8 @@ spring:
     config:
       server:
         git:
-          default-label: multiple-instances
+          default-label: gateway
           uri: https://github.com/renatogithub/microservicios-tutorial
           search-paths: config-data
   application:
-    name: config-service           
+    name: config-service      
