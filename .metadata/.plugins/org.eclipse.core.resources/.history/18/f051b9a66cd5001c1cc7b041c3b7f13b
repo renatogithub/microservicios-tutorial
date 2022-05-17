@@ -1,0 +1,8 @@
+package com.carro.service.controladores;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class CarroController {
+
+}

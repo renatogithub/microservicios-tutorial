@@ -1,0 +1,11 @@
+package com.usuario.service.configuracion;
+
+@Configuration
+public class RestTemplateConfig {
+
+	@Bean
+	public RestTemplate restTemplate() {
+		return new RestTemplate();
+	}
+
+}

@@ -1,0 +1,6 @@
+package com.carro.service.servicio;
+
+@Service
+public class CarroService {
+
+}

@@ -1,0 +1,12 @@
+package com.moto.service.entidades;
+
+public class Moto {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private int id;
+
+	private String marca;
+	private String modelo;
+	private int usuarioId;
+}
